@@ -2,18 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DefaultKeyScript : MonoBehaviour
+public class DefaultKeyScript : PlayerInv
 {
     void OnTriggerEnter(Collider other)
     {
         Debug.Log("This a Hit");
-
-        public class PlayerInv : MonoBehaviour
-    {
-        public MainDoorKey
-
-        MainDoorKey = true;
-    }
+        MainDoorkeySetTrue();
     }
 }
-

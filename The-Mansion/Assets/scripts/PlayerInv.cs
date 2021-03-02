@@ -4,14 +4,18 @@ using UnityEngine;
 
 public class PlayerInv : MonoBehaviour
 {
-
-    public static bool MainDoorKey = false;
-    public static bool BedDoorKey = false;
-
-    // Start is called before the first frame update
-    void Start()
+    protected bool MainDoorKey;
+    protected bool BedDoorKey;
+    
+    private void Start()
     {
-        
+        MainDoorKey = false;
+        BedDoorKey = false;
+    }
+
+    protected void MainDoorkeySetTrue()
+    {
+        MainDoorKey = true;
     }
 
     // Update is called once per frame
