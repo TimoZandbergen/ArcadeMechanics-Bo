@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerInv : MonoBehaviour
 {
+
     protected bool MainDoorKey;
     protected bool BedDoorKey;
     
@@ -21,6 +22,6 @@ public class PlayerInv : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(MainDoorKey);
+
     }
 }
