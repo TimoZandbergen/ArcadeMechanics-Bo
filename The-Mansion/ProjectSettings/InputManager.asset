@@ -294,11 +294,11 @@ InputManager:
     axis: 0
     joyNum: 0
   - serializedVersion: 3
-    m_Name: F
-    descriptiveName: f
-    descriptiveNegativeName: f
+    m_Name: Fkey
+    descriptiveName: 
+    descriptiveNegativeName: 
     negativeButton: f
-    positiveButton: f
+    positiveButton: 
     altNegativeButton: 
     altPositiveButton: 
     gravity: 1000

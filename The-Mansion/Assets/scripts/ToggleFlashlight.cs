@@ -6,7 +6,6 @@ public class ToggleFlashlight : MonoBehaviour
 {
     public bool isOn = false;
     public GameObject lightSource;
-    public AudioSource clickSound;
 
     void Start()
     {
@@ -15,9 +14,8 @@ public class ToggleFlashlight : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetButtonDown("F"))
+        if (Input.GetMouseButtonDown(1))
         {
-            Debug.Log("click");
             if (isOn == false)
             {
                 lightSource.SetActive(true);
@@ -30,7 +28,6 @@ public class ToggleFlashlight : MonoBehaviour
                 isOn = false;
             }
         }
-        while (isOn == true) ;
             
     }
 }
