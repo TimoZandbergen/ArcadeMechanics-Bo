@@ -1,2 +1,16 @@
 Base path: 'C:/Users/zandb/Documents/Unity/2019.4.17f1/Editor/Data', plugins path 'C:/Users/zandb/Documents/Unity/2019.4.17f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
+Cmd: preprocess
+  insize=26374 outsize=5893 ok=1
+Cmd: preprocess
+  insize=11777 outsize=9544 ok=1
+Cmd: preprocess
+  insize=7291 outsize=5417 ok=1
+Cmd: preprocess
+  insize=7978 outsize=5887 ok=1
+Cmd: preprocess
+  insize=20967 outsize=13921 ok=1
+Cmd: preprocess
+  insize=42190 outsize=9730 ok=1
+Cmd: preprocess
+  insize=34960 outsize=6358 ok=1
