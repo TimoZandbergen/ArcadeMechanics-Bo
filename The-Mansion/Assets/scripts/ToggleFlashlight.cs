@@ -9,7 +9,7 @@ public class ToggleFlashlight : MonoBehaviour
 
     void Start()
     {
-        
+        lightSource.SetActive(false);  
     }
 
     void Update()
