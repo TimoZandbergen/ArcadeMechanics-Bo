@@ -1,6 +1,6 @@
 **Arcade mechanics**
 
-**gemaakt door:** *Timo Zandbergen, Damon Jellema en Leon Boussen*
+**gemaakt door:** *Timo Zandbergen, Damon Jellema en Leon Boussen**
 
 
 
