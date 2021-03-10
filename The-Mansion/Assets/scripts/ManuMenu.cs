@@ -7,7 +7,7 @@ public class ManuMenu : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadScene("Map1");
+        SceneManager.LoadScene("MainPlayMap");
     }
 
     public void QuitGame()
