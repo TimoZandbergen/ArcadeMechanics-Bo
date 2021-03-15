@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Timo-Map.unity
+=======
+- path: Assets/Scenes/MainPayMap.unity
+>>>>>>> eb19ef92d15796af60327777f7f2e25eb2f8f15f
   isLoaded: 1
   isActive: 1
   isSubScene: 0

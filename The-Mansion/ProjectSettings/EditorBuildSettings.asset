@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Map1.unity
     guid: 744d8c443f1ab4541a7078b5a57c2cf5
+  - enabled: 1
+    path: Assets/Scenes/MainPayMap.unity
+    guid: 2e5685a8ed492e74d949db47c9929479
+  - enabled: 1
+    path: Assets/Scenes/Leon Dev map.unity
+    guid: 195cb0e26c44a2b418ffa9fd8e708045
   m_configObjects: {}
