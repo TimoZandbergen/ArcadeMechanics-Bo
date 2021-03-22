@@ -91,7 +91,7 @@ GameObject:
   - component: {fileID: 7810734332242893222}
   - component: {fileID: 8932949476363130707}
   m_Layer: 0
-  m_Name: Wall_03_ex
+  m_Name: good_wall_wood
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -106,7 +106,7 @@ Transform:
   m_GameObject: {fileID: 9149761484565603618}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 10.281094, y: 1.599463, z: 12.495388}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1.2, z: 1}
   m_Children:
   - {fileID: 516068602418869841}
   m_Father: {fileID: 0}
